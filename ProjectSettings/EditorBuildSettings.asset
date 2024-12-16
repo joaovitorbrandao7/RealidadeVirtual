@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicial.unity
+    guid: 10221808bf0970f4a8f83c90e4cc8fe2
+  - enabled: 1
+    path: Assets/Scenes/Jogo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menu Morte.unity
+    guid: ed09cd6bb6569814db1c9a9667d6759d
+  - enabled: 1
+    path: "Assets/Scenes/Explica\xE7\xE3o.unity"
+    guid: 9837ec98fde6f384ca4347f576fbce24
+  - enabled: 1
+    path: Assets/Scenes/TelaDeVitoria.unity
+    guid: 0cfffea9fb7716a4fa0d2b436ab7b293
+  m_configObjects: {}
